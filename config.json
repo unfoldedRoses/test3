@@ -1,0 +1,6 @@
+{
+    "dbhost" : "your_rds_endpoint",
+    "dbname" : "your_db_instance_name_rds",
+    "dbuser" :"your_user_name",
+    "dbpassword" :"your_rds_pass"
+}
