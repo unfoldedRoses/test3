@@ -24,4 +24,4 @@ To deploy a .zip file containing the index.js file to the AWS Lambda Function AW
     Configure the desired runtime settings for your Lambda function, such as memory allocation and timeout values, in the "Basic settings" section.
     Define the necessary triggers for your Lambda function in the "Add triggers" section. Triggers can include API Gateway, CloudWatch Events, or other AWS services that can invoke your function.    
 
-NOTE:: AS PER TASK WE ARE JUST DEMONSTRATING STEPS TO CREATE LAMDA FUNCTIONS AND INVOKING IN AWS CONSOLE ITSELF .  FOR FURTHER API ACCESS WE NEED TO CREATE API GATEWAY SERVICE FROM AWS TO EXPOSE ENDPOINTS WHICH IS NOT WRITTEN IN TASK MAIL SO I DID WHAT ONLY WAS REQUIRED!
+NOTE:: AS PER TASK WE ARE JUST DEMONSTRATING STEPS TO CREATE LAMDA FUNCTIONS AND CONNECTING WITH MYSQL RDS SERVICE INVOKING IN AWS CONSOLE ITSELF .  FOR FURTHER API ACCESS WE NEED TO CREATE API GATEWAY SERVICE FROM AWS TO EXPOSE ENDPOINTS WHICH IS NOT WRITTEN IN TASK MAIL SO I DID WHAT ONLY WAS REQUIRED!
