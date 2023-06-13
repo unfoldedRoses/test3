@@ -3,8 +3,7 @@ lambda functions invoking using rds mysq aws.
 
 
 
-Creating an RDS Instance:
-With the Lambda function securely deployed, the sorcerer can now conjure an RDS instance to serve as the realm for storing the enchanted records. The sorcerer can navigate to the AWS Management Console and follow these steps to create an RDS instance:
+Creating an RDS :
 
     Open the Amazon RDS service.
     Click "Create database" to initiate the instance creation process.
